@@ -2,4 +2,4 @@
 # week1-assignment
 
 All projects are in https://github.com/emredag/patika-dev-projects
-HackkeRrank: https://www.hackerrank.com/ewredag
+HackerRank: https://www.hackerrank.com/ewredag
